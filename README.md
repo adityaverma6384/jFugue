@@ -1,4 +1,4 @@
 jFugue
 ======
 
-jFugue projects
+jFugue projects..
